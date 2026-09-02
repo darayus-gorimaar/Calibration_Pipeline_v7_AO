@@ -1,0 +1,13 @@
+# Ignore data, generatedm and output directories
+DATA/
+generated/
+calibration*/
+validation*/
+
+# Ignore build/python artifacts
+*.egg-info/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+.venv-ao/
