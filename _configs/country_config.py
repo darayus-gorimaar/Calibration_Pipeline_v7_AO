@@ -7,7 +7,7 @@ TARGET_POPULATION_INITIAL_YEAR = 25_279_115 # From AO population calibration exc
 TARGET_POPULATION_CALIBRATION_YEAR = 37_885_849 
 
 target_growth_rate = 0.0351 # From 2020 - https://www.worldometers.info/world-population/angola-population/
-birth_rate = 39.5 / 1000
+birth_rate = 39.0 / 1000
 
 # Paths
 template_path = "calibration_template_files"

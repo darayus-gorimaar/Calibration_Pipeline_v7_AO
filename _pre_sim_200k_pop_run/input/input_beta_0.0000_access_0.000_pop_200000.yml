@@ -68,7 +68,7 @@ population_demographic:
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 25, 35, 45, 55, 65, 100]
 
   # Crude birth rate
-  birth_rate: 0.0395
+  birth_rate: 0.0390
 
   # 1-year average probability of dying across all ages in each bin MINUS 1-year average probability of dying OF MALARIA (2011-23 average) across all ages in each bin
   #

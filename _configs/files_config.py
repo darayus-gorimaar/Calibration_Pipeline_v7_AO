@@ -38,6 +38,8 @@ travel_time_raster_path = f"{data_path}/{country_code}_traveltime.asc"
 incidence_data_csv_path = None
 pfpr_raster_path = f"{data_path}/{country_code}_pfpr_{calibration_year}.asc"
 
+seasonality_file_path = f"{template_path}/{country_code}_seasonality.csv"
+
 #/generated/
 # initial_population_projected_raster_path = f"{generated_data_path}/{country_code}_population_backwards_projected_{initial_year}_25.28M.asc"
 initial_population_projected_raster_path = f"{generated_data_path}/{country_code}_population_backwards_projected_{initial_year}_unscaled.asc"
