@@ -8,8 +8,8 @@ validation_replicates = 20
 
 # population scales
 pre_calibration_sim_scale = 1                           # Full Value: 1
-pre_calibration_population_validation_scale = 0.125      # Full Value: 0.25
-calibration_population_scale = 0.0001                        # Full Value: 1
+pre_calibration_population_validation_scale = 0.25     # Full Value: 0.25
+calibration_population_scale = 1                     # Full Value: 1
 validation_population_scale = 0.25                      # Full Value: 0.25
 
 ###############################################################

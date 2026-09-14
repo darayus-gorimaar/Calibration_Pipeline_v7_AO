@@ -154,7 +154,7 @@ spatial_settings:
 
     administrative_boundaries:
       - name: district
-        raster: #INPUT_PATH#/#COUNTRY_CODE#_district.asc
+        raster: #INPUT_PATH#/#COUNTRY_CODE#_districts.asc
 
     # Raster files defining treatments
     p_treatment_under_5_raster: "#INPUT_PATH#/#COUNTRY_CODE#_treatment_seeking_normalized#ACCESS_RATE#.asc"

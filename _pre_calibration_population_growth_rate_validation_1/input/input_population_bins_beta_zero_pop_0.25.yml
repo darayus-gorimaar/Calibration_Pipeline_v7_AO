@@ -112,7 +112,7 @@ population_demographic:
       0.001,
     ]
   # Scaling factor for the population in the model (based on data)
-  artificial_rescaling_of_population_size: 0.125
+  artificial_rescaling_of_population_size: 0.25
 
 # ---------------------------------------------------------------
 # 5. Raster and Geographic Settings
@@ -154,7 +154,7 @@ spatial_settings:
 
     administrative_boundaries:
       - name: district
-        raster: input/ago_district_seq1.asc
+        raster: input/ago_districts.asc
 
     # Raster files defining treatments
     p_treatment_under_5_raster: "input/ago_treatment_seeking_normalized.asc"
