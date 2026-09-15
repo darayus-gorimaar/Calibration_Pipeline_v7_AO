@@ -36,7 +36,7 @@ treatment_seeking_raster_path = f"{data_path}/{country_code}_treatment_seeking_n
 travel_time_raster_path = f"{data_path}/{country_code}_traveltime.asc"
 
 incidence_data_csv_path = None
-pfpr_raster_path = f"{data_path}/{country_code}_pfpr_{calibration_year}.asc"
+pfpr_raster_path = f"{data_path}/{country_code}_pfpr_2to10_{calibration_year}.asc"
 
 seasonality_file_path = f"{template_path}/{country_code}_seasonality.csv"
 
