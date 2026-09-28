@@ -219,7 +219,7 @@ spatial_settings:
 # ---------------------------------------------------------------
 seasonality_settings:
   # Seasonality of malaria (to be updated with specific country data)
-  enable: false
+  enable: true
   mode: pattern
   pattern:
     admin_level: district

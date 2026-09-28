@@ -3,6 +3,8 @@ calibration_year = 2024
 initial_year = 2011
 observed_population_year = 2020
 
+incidence_comparison_year = 2021
+
 TARGET_POPULATION_INITIAL_YEAR = 25_279_115 # From AO population calibration excel file
 TARGET_POPULATION_CALIBRATION_YEAR = 37_885_849 
 
